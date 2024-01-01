@@ -25,7 +25,7 @@ End the program.
 ## PROGRAM:
 ### To copy contents from one file to another file:
 ### Devolped By: Haarish V
-### Register no: 21223239967
+### Register no: 21223230067
 ```
 with open('sample.txt','r') as file1:
     with open ('san1.txt','a') as file2:
